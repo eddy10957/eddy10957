@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Edoardo</h1>
-- 🔭 I’m currently working on **IOS Development**
 
+- 🎓 I'm a student at the Apple Developer Academy in Naples and Computer engineering at Federico II Naples
+- 🔭 I’m currently working on **IOS Development**
 - 🌱 I’m currently learning **SwiftUI,UIKit, SpriteKit, CoreML**
 
 <h3 align="left">Connect with me:</h3>
