@@ -2,7 +2,7 @@
 
 - 🎓 Student at the Apple Developer Academy in Naples and Computer engineering at Federico II Naples
 - 🔭 Currently working on **IOS Development**
-- 🌱 Currently learning **SwiftUI,UIKit, SpriteKit, CoreML**
+- 🌱 Currently learning **SwiftUI,UIKit, SpriteKit, CoreML, SceneKit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
