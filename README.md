@@ -40,8 +40,6 @@ I’m a 25 y.o student of Computer Engineering at Federico II Naples. I’ve bee
 
 <a href="http://www.github.com/eddy10957"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eddy10957&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/eddy10957" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddy10957&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/eddy10957/SushiRollOverview" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eddy10957&repo=SushiRollOverview&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/eddy10957/Artifact2Bot" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eddy10957&repo=Artifact2Bot&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
