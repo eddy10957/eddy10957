@@ -4,7 +4,7 @@ Hi 👋 My name is Edoardo Troianiello
 ###### 🎓 Student @Apple Developer Academy in Naples and Computer engineering @Federico II Naples
 
 
-I’m a 26 y.o student of Computer Engineering at Federico II Naples. I’ve been into programming since I can remember and after graduating from computer scientific high-school, I soon started my path at university on computer engineering.
+I’m a 26 y.o student of Computer Engineering at University G. Marconi. I’ve been into programming since I can remember and after graduating from computer scientific high-school, I soon started my path at university on computer engineering.
 
 # 💫 About Me:
 🌍  I'm based in Naples<br>🔭 I’m currently working on mark & on improving iOS Development skills<br>🌱 I’m currently learning Python & Django
