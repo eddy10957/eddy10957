@@ -1,13 +1,22 @@
-Hi 👋 My name is Edoardo Troianiello
-====================================
 
-###### 🎓 Student @Apple Developer Academy in Naples and Computer engineering @Federico II Naples
+Hi 👋 I'm Edoardo Troianiello
+===========================
 
+###### 🎓iOS Engineer | @Apple Developer Academy Alumnus | Computer Engineer @University G. Marconi | Quality Assurance Engineer @M47labs
 
-I’m a 26 y.o student of Computer Engineering at University G. Marconi. I’ve been into programming since I can remember and after graduating from computer scientific high-school, I soon started my path at university on computer engineering.
+I’m a dedicated iOS Engineer with a background in Computer Engineering, currently working as a Quality Assurance Engineer at M47labs. My journey in programming began early, and I've consistently pursued my passion for technology. 🚀 Proficient in Swift, especially SwiftUI, and Python.<br>🌐 Aspires to become a full-stack developer.
 
-# 💫 About Me:
-🌍  I'm based in Naples<br>🔭 I’m currently working on mark & on improving iOS Development skills<br>🌱 I’m currently learning Python & Django
+# 💼 Professional Experience:
+🚀 Over two years of experience in iOS development, contributing to the success of projects like MotorLog, SushiRoll and more.
+<br>👨‍💻 Currently working as a Quality Assurance Engineer at M47labs, gaining valuable insights into the software development lifecycle and ensuring top-notch quality in every aspect.
+
+# 🌱 Learning and Growth:
+📚 Holds a Bachelor's degree in Computer Engineering from University G. Marconi.<br>🔍 Continuously explores new technologies, currently learning Python & Django to broaden skill set.<br>🤝 Adaptable and collaborative, thrives in challenging environments.
+
+# 📫 Get in Touch:
+🔗 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edoardotroianiello) | <br> ✉️ Email: eddytd96@gmail.com<br> 🌐 Portfolio: [Portfolio](eddy10957.github.io)
+
+Feel free to explore my GitHub repositories and get in touch for collaboration or exciting opportunities in the world of iOS development! 🚀
 
 
 ## 🌐 Socials:
