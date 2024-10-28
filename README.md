@@ -11,7 +11,7 @@ I’m a dedicated iOS Engineer with a background in Computer Engineering, curren
 <br>👨‍💻 Currently working as a Quality Assurance Engineer at M47labs, gaining valuable insights into the software development lifecycle and ensuring top-notch quality in every aspect.
 
 # 🌱 Learning and Growth:
-📚 Holds a Bachelor's degree in Computer Engineering from University G. Marconi.<br>🔍 Continuously explores new technologies, currently learning Python & Django to broaden skill set.<br>🤝 Adaptable and collaborative, thrives in challenging environments.
+📚 Holds a Bachelor's degree in Computer Engineering from University G. Marconi.<br>🔍 Continuously explores new technologies, currently learning Data analysis.<br>🤝 Adaptable and collaborative, thrives in challenging environments.
 
 # 💻 Tech Stack:
 <p align="left">
@@ -19,7 +19,7 @@ I’m a dedicated iOS Engineer with a background in Computer Engineering, curren
 </p>
 
 # 📫 Get in Touch:
-🔗 Connect with me on <a href="https://www.linkedin.com/in/edoardo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> | ✉️ Email: eddytd96@gmail.com | 🌐 Portfolio: [Portfolio](eddy10957.github.io)
+🔗 Connect with me on <a href="https://www.linkedin.com/in/edoardotroianiello" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> | ✉️ Email: eddytd96@gmail.com | 🌐 Portfolio: [Portfolio](eddy10957.github.io)
 
 Feel free to explore my GitHub repositories and get in touch for collaboration or exciting opportunities in the world of iOS development! 🚀
 
